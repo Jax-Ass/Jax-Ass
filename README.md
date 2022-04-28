@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jax-Ass
-- 👀 I’m interested in programming, electronics, mechanics
-- 🌱 I’m currently learning JS still..
+#Welcome
+---
+I'm Jax-Ass, and here is some information about me:
